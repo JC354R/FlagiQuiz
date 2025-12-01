@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flagi</string>
+    <string name="polecenia">Choose colors that are not in polish flag</string>
+    <string name="ostrzezenie">tego przycisku nie wybieraj</string>
 </resources>

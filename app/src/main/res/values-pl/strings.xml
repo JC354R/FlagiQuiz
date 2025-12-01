@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Flagi</string>
+    <string name="polecenia">hgjgbjgcvjcgvj</string>
+    <string name="ostrzezenie">dont choose this button</string>
 </resources>
