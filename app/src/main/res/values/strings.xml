@@ -2,4 +2,5 @@
     <string name="app_name">Flagi</string>
     <string name="polecenia">Choose colors that are not in polish flag</string>
     <string name="ostrzezenie">tego przycisku nie wybieraj</string>
+    <string name="gratulacje">Brawo to jest flaga polski!!!</string>
 </resources>
